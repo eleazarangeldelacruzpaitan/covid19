@@ -5,7 +5,11 @@ Este proyecto acabara el mundo
     - Plaga
     - Libelula
 ## Requerimientos
-| Day     | Meal    | Price |
-| --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+|   Software   | Version|      Pagina        |
+| -------------|--------|--------------------|
+| Github       | 10.1.0 | www.github.com     |
+| SurveyMonkey | 9.8.0  | www.surveymonkey   |
+| WebEngage    | 5.6.   | www.webengage      |
+| Honestly     | 12.6   | www.honestly       |
+| Responster   | 9.9.1  | www.responster.com |
+
