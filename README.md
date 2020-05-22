@@ -14,5 +14,11 @@ Este proyecto acabara el mundo
 | Honestly     | 12.6   | www.honestly       |
 | Responster   | 9.9.1  | www.responster.com |
 
-## Como desplegar la aplicaion:
+## Como desplegar la aplicacion:
 -Para desplegar la aplicacion se realiza los  siguientes procesos:
+-Ir al menu de las pestañas y seleccionar, gracias.
+
+## Como descargar la aplicacion:
+-paso 1
+-paso 2
+
