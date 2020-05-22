@@ -26,4 +26,8 @@ Este proyecto acabara el mundo
 - Requerimientos funcionales
 - Requerimientos no funcionales
 
+## EMPRESA MODULAR:
+-Consultorio dental "MASTERS DENT"
+
+
 
