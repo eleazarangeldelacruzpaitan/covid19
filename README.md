@@ -19,6 +19,11 @@ Este proyecto acabara el mundo
 -Ir al menu de las pestañas y seleccionar, gracias.
 
 ## Como descargar la aplicacion:
--paso 1
--paso 2
+-paso 1 --> click derecho presionar
+-paso 2 --> listo...
+
+## Tipos de REQUERIMIENTOS:
+- Requerimientos funcionales
+- Requerimientos no funcionales
+
 
