@@ -41,8 +41,12 @@ Este proyecto acabara el mundo
 - El paciente podra hacer el metodo de pago en linea.
 
 
-
-
+## REQUERIMIENTOS NO FUNCIONALES:
+- Los pacientes podran registrarse al sistema a traves de un login y password.
+-El sistema permitira recordar las contraseñas de los usuario.
+-El sistema permitira enviar correos a los pacientes cuando esto haya separado una cita.
+-El sistema sera amigable con el publico general.
+-El sistema sera visualizado y apto el los navegadores: chrome, firefox.
 
 
 
