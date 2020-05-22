@@ -48,5 +48,8 @@ Este proyecto acabara el mundo
 -El sistema sera amigable con el publico general.
 -El sistema sera visualizado y apto el los navegadores: chrome, firefox.
 
+##PRESENTADO POR:
+ELEAZAR ANGEL DE LA CRUZ PAITAN
+
 
 
