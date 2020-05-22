@@ -29,5 +29,20 @@ Este proyecto acabara el mundo
 ## EMPRESA MODULAR:
 -Consultorio dental "MASTERS DENT"
 
+## REQUERIMIENTOS FUNCIONALES:
+- El usuario podra crear cuenta de usuario para la clinica.
+- El usuario administrador podra manejar el sisitema.
+- El sistema presentara una lista donde especifica todo a cerca de una paciente (ihstorial clinico).
+- El odontologo podra realizar busqueda de pacientes para gestionar.
+- El odontologo podra hacer el seguimiento el tratamiento de un paciente.
+- Los pacientes podrna ver laprogramacion de su cita detallado en el sisitema.
+- El paciente podra ver su estado cuentas.
+- El odontologo podra generar reportes de un paciente.
+- El paciente podra hacer el metodo de pago en linea.
+
+
+
+
+
 
 
