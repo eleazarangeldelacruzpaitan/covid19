@@ -1,10 +1,11 @@
 # covid19
 Este proyecto acabara el mundo
-## Creditos
+## Creditos:
     - Bichito
     - Plaga
     - Libelula
-## Requerimientos
+
+## Requerimientos:
 |   Software   | Version|      Pagina        |
 | -------------|--------|--------------------|
 | Github       | 10.1.0 | www.github.com     |
@@ -13,3 +14,5 @@ Este proyecto acabara el mundo
 | Honestly     | 12.6   | www.honestly       |
 | Responster   | 9.9.1  | www.responster.com |
 
+## Como desplegar la aplicaion:
+-Para desplegar la aplicacion se realiza los  siguientes procesos:
